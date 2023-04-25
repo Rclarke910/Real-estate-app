@@ -7,7 +7,7 @@ import { FaGratipay } from 'react-icons/fa'
 
 const Navbar = () => (
     <Flex p='2' borderBottom='1px' borderColor='gray.100'>
-        <Box fontSize='5xl' color='blue.400' fontWeight='bold'>
+        <Box fontSize='4xl' color='blue.400' fontWeight='bold'>
             <Link href='/' paddingLeft='2'>RealDeal</Link>
         </Box>
         <Spacer />
